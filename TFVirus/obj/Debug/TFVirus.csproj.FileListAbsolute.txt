@@ -1,0 +1,13 @@
+c:\users\hernandez\documents\visual studio 2012\Projects\TFVirus\TFVirus\bin\Debug\TFVirus.exe.config
+c:\users\hernandez\documents\visual studio 2012\Projects\TFVirus\TFVirus\bin\Debug\TFVirus.exe
+c:\users\hernandez\documents\visual studio 2012\Projects\TFVirus\TFVirus\bin\Debug\TFVirus.pdb
+c:\users\hernandez\documents\visual studio 2012\Projects\TFVirus\TFVirus\obj\Debug\TFVirus.csprojResolveAssemblyReference.cache
+c:\users\hernandez\documents\visual studio 2012\Projects\TFVirus\TFVirus\obj\Debug\TFVirus.Form1.resources
+c:\users\hernandez\documents\visual studio 2012\Projects\TFVirus\TFVirus\obj\Debug\TFVirus.Properties.Resources.resources
+c:\users\hernandez\documents\visual studio 2012\Projects\TFVirus\TFVirus\obj\Debug\TFVirus.csproj.GenerateResource.Cache
+c:\users\hernandez\documents\visual studio 2012\Projects\TFVirus\TFVirus\obj\Debug\TFVirus.exe
+c:\users\hernandez\documents\visual studio 2012\Projects\TFVirus\TFVirus\obj\Debug\TFVirus.pdb
+C:\Users\Hernandez\documents\visual studio 2012\Projects\TFVirus\TFVirus\bin\Debug\TFVirus.exe.manifest
+C:\Users\Hernandez\documents\visual studio 2012\Projects\TFVirus\TFVirus\bin\Debug\TFVirus.application
+C:\Users\Hernandez\documents\visual studio 2012\Projects\TFVirus\TFVirus\obj\Debug\TFVirus.exe.manifest
+C:\Users\Hernandez\documents\visual studio 2012\Projects\TFVirus\TFVirus\obj\Debug\TFVirus.application
